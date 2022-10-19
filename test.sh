@@ -1,0 +1,1 @@
+curl --location --request GET 'localhost:4001/1' | curl --location --request GET 'localhost:4001/2'
